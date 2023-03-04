@@ -1,4 +1,4 @@
-# Desafio-dio-github-primeiro-repositorio
+# Desafio-github-Dio.me
 Desafio de Projeto sobre Git/GitHub da Dio
 
 ## Meu Linkedin
