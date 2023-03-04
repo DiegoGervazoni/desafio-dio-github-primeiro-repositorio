@@ -1,0 +1,19 @@
+vai até a pasta do código;
+git init
+git add .
+git commit -m "nomeQueQuiser"
+git branch -M main
+git remote add origin "URL DO GITHUB"
+git push -u origin main
+
+git status -> mostra o status dos arquivos;
+ls -a -> lista pasta oculta;
+ctrl + l -> limpa terminal;
+git config --global --unset user.email -> reseta o email ou usuario (user.name);
+git config --list -> lista td sobre o git (apertar q para sair);
+git config --global user.name ou user.emal;
+git remote -v -> lista os repositorios remotos;
+git add * -> pra adicionar todos;
+git pull origin main -> puxar conteudo;
+senha chave ssh -> 71829346;
+git clone <url do codigo> -> clona o codigo direto do github;
